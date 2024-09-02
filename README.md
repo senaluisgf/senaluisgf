@@ -5,7 +5,7 @@
 - 💬 **Ask Me About:** Volleyball, my hobbies, and of course, software development.
 - 😄 **Pronouns:** He/Him
 
-## Languages and Tools
+## Languages and Tools 💻⚙️
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,13 +25,13 @@
   <img align="center" alt="Luis-NestJs" height="30" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574">
 </div>
 
-## GitHub Stats 
+## GitHub Stats 〽️⚡
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senaluisgf&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senaluisgf&layout=compact&theme=dark">
 </div>
 
-## Reach me
+## Reach me 📮
 <div> 
   <a href="https://www.linkedin.com/in/senaluisgf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sena.luisgf@gmail.com"><img src="https://img.shields.io/badge/-senaluisgf@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=white" target="_blank"></a>
