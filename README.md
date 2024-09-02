@@ -34,5 +34,5 @@
 ## Reach me
 <div> 
   <a href="https://www.linkedin.com/in/senaluisgf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:sena.luisgf@gmail.com"><img src="https://img.shields.io/badge/-senaluisgf@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+  <a href = "mailto:sena.luisgf@gmail.com"><img src="https://img.shields.io/badge/-senaluisgf@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=white" target="_blank"></a>
 </div>
