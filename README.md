@@ -4,7 +4,7 @@
 - 🌱 **Learning Goals:** I’m improving my English skills ([Wise Up](https://wiseup.com/)) and working on advancing my personal career development ([Full Cycle](https://curso.fullcycle.com.br/curso-fullcycle/)).
 - 💬 **Ask Me About:** Volleyball, my hobbies, and of course, software development.
 - 😄 **Pronouns:** He/Him
-- 😎 **Portfolio:** [Click here to access my portfolio](https://senaluisgf.github.io/)
+- 😎 **Portfolio:** [Click here to access my portfolio](https://senaluisgf.github.io/) (Under Construction)
 
 ## Languages and Tools 💻⚙️
 <div style="display: inline_block"><br>
