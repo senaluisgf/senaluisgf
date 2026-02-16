@@ -1,9 +1,9 @@
 ## 👋 Hello, I'm Luis Sena 
 
-- 🔭 **Current Work:** I’m currently working at [**Kasco R&D Technologies**](https://home.kascosys.com.br/).
+- 🔭 **Current Work:** I’m currently working at [**Grupo Multilaser**](https://www.multilaser.com.br/quem-somos).
 - 🌱 **Learning Goals:** I’m improving my English skills ([Wise Up](https://wiseup.com/)) and working on advancing my personal career development ([Full Cycle](https://curso.fullcycle.com.br/curso-fullcycle/)).
 - 💬 **Ask Me About:** Volleyball, my hobbies, and of course, software development.
-- 😄 **Pronouns:** He/Him
+- 😄 **Pronouns:** He/Him/His
 - 😎 **Portfolio:** [Click here to access my portfolio](https://senaluisgf.github.io/) (Under Construction)
 
 ## Languages and Tools 💻⚙️
